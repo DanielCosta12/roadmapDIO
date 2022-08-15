@@ -1,7 +1,21 @@
 # Olá, 👋
+
 ##  Esse é um roadmap de estudos na [DIO](https://web.dio.me/play?tab=cursos) que eu irei seguir, conforme for terminando irei atualizando.
 
+## Princípios de Desenvolvimento de Software
+~~Introdução à Programação e Pensamento Computacional~
+Introdução ao Git e ao GitHub
+
+### Fundamentos Web com HTML e CSS
+~~Primeiros passos para desenvolvimento web
+Introdução a Criação de Websites com HTML5 e CSS3
+Posicionando elementos com Flexbox em CSS
+Recriando a página inicial do Instagram 
+
 ## Dominando a linguagem de programação Javascript  
+~Instalação e Configuração do Visual Studio Code~
+~Introdução ao JavaScript~
+~Sintaxe Básica em JavaScript~
 ~Sintaxe e operadores Javascript~  
 Variáveis e tipos com javascript  
 Dominando funções em javascript  
