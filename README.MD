@@ -18,7 +18,7 @@
 - [x] Sintaxe Básica em JavaScript
 - [x] Sintaxe e operadores Javascript
 - [x] Variáveis e tipos com javascript  
-- [ ] Dominando funções em javascript  
+- [x] Dominando funções em javascript  
 - [ ] Debugging e Error Handling com JavaScript  
 - [ ] Desafio inicial js - impulso javascript evolution  
 - [ ] Manipulando a D.O.M. com javascript  
