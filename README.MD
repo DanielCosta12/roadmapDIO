@@ -20,8 +20,7 @@
 - [x] Variáveis e tipos com javascript  
 - [x] Dominando funções em javascript  
 - [ ] Debugging e Error Handling com JavaScript  
-- [ ] Desafio inicial js - impulso javascript evolution  
-- [ ] Manipulando a D.O.M. com javascript  
+- [x] Manipulando a D.O.M. com javascript  
 - [ ] Fundamentos de javascript assíncrono  
 - [ ] orientação a objetos com javascript  
 - [ ] Intrudução ao typescript: explorando classes, tipos e interfaces  
