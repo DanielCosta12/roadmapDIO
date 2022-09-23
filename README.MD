@@ -19,9 +19,9 @@
 - [x] Sintaxe e operadores Javascript
 - [x] Variáveis e tipos com javascript  
 - [x] Dominando funções em javascript  
-- [ ] Debugging e Error Handling com JavaScript  
+- [x] Debugging e Error Handling com JavaScript  
 - [x] Manipulando a D.O.M. com javascript  
-- [ ] Fundamentos de javascript assíncrono  
+- [x] Fundamentos de javascript assíncrono  
 - [ ] orientação a objetos com javascript  
 - [ ] Intrudução ao typescript: explorando classes, tipos e interfaces  
 - [ ] Desafio intermediário JS- impulso javascript evolution  
